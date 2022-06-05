@@ -5,11 +5,18 @@
 
 ### Meu setup de trabalho
 
-<div style="display: inline-block">
-  <img align="center" alt="ryzen5" src="https://img.shields.io/badge/AMD-Ryzen_5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img align="center" alt="gtx1050ti" src="https://img.shields.io/badge/NVIDIA-GTX1050TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-</div>
+![Ryzen](https://img.shields.io/badge/AMD-Ryzen_5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![GTX](https://img.shields.io/badge/NVIDIA-GTX1050TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   
+### Minhas linguagens
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ### Banco de dados
 
 <div style="display: inline-block">
